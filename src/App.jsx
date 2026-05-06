@@ -3,7 +3,7 @@ import { AuthProvider } from './context/AuthContext';
 import { PrivateRoute, AdminRoute } from './components/PrivateRoute';
 
 // Pages publiques
-import Home from './pages/Home';
+import Home from './pages/home';
 import Login from './pages/Login';
 import Register from './pages/Register';
 import ProductDetail from './pages/ProductDetail';
