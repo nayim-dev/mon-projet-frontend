@@ -10,7 +10,7 @@ import ProductDetail from './pages/ProductDetail';
 
 // Pages user
 import Cart from './pages/user/Cart';
-import MyOrders from './pages/user/MyOrders';
+import MyOrders from './pages/user/Myorders';
 
 // Pages admin
 import Dashboard from './pages/admin/Dashboard';
